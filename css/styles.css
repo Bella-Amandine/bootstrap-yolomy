@@ -1,0 +1,11 @@
+#heading-section {
+    height: 90vh;
+    width: 100%;
+    background-image: url('/images/backgrounds/hero.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+#product-category {
+    background-color: rgb(190, 189, 189);
+    height: 20vh;
+}
